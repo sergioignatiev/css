@@ -1,0 +1,10 @@
+{
+  "name": "sergioignatev-css",
+  "version": "1.0.0",
+  "description": "Reusable CSS utility library",
+  "main": "styles.css",
+  "files": ["styles.css"],
+  "keywords": ["css", "ui", "styles"],
+  "author": "Сергей Игнатьев",
+  "license": "MIT"
+}
